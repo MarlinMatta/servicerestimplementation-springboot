@@ -1,4 +1,4 @@
-package com.vmsoft.singa.demo;
+package com.vmsoft.demo.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

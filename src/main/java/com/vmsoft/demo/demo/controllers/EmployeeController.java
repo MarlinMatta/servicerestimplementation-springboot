@@ -1,7 +1,7 @@
-package com.vmsoft.singa.demo.controllers;
+package com.vmsoft.demo.demo.controllers;
 
-import com.vmsoft.singa.demo.models.Employee;
-import com.vmsoft.singa.demo.utils.DataSource;
+import com.vmsoft.demo.demo.utils.DataSource;
+import com.vmsoft.demo.demo.models.Employee;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;

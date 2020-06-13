@@ -1,6 +1,6 @@
-package com.vmsoft.singa.demo.utils;
+package com.vmsoft.demo.demo.utils;
 
-import com.vmsoft.singa.demo.models.Employee;
+import com.vmsoft.demo.demo.models.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

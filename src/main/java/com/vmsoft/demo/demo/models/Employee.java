@@ -1,4 +1,4 @@
-package com.vmsoft.singa.demo.models;
+package com.vmsoft.demo.demo.models;
 
 public class Employee {
 
